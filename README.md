@@ -6,6 +6,7 @@ The project examines geographical patterns, sector distributions, borrower chara
 - Final results compiled into an interactive HTML report (VD_Abschlussprojekt.html).
 
 Project structure:
+
 .
 ├─ Abschlussprojekt/          # Source files and Jupyter Notebooks used to generate the report
 
