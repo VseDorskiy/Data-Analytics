@@ -9,11 +9,11 @@ Project structure:
 
 .
 
-├─ Abschlussprojekt/            # Source files and Jupyter Notebooks used to generate the report
+├─ Abschlussprojekt/                     # Source files and Jupyter Notebooks used to generate the report
 
-├─ Aufgabe/                     # Original project task and instructions
+├─ Aufgabe/                              # Original project task and instructions
 
-└─ VD_Abschlussprojekt.html     # Final project report (rendered HTML)
+└─ VD_Abschlussprojekt.html              # Final project report (rendered HTML)
 
 Notes:
 
