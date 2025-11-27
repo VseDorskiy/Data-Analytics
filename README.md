@@ -7,11 +7,11 @@ The project examines geographical patterns, sector distributions, borrower chara
 
 Project structure:
 
-- \Abschlussprojekt — source files and Jupyter Notebooks
+├─ Abschlussprojekt/ — source files and Jupyter Notebooks
 
-- \Aufgabe — original project task and instructions
+├─ Aufgabe/ — original project task and instructions
 
-VD_Abschlussprojekt.html — final rendered output
+└─ VD_Abschlussprojekt.html — final rendered output
 
 Notes:
 
